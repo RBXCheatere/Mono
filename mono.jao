@@ -1,3 +1,5 @@
+local Library = {
+
 -- // variables
 local library = {}
 local pages = {}
